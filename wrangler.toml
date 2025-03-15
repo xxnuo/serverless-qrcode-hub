@@ -4,7 +4,7 @@ main = "index.js"
 
 
 kv_namespaces = [
-    { binding = "KV_BINDING", id = "${KV_NAMESPACE_ID}" }
+    { binding = "KV_BINDING", id = "7fd86835df844fccb1f32e742bbf2c77" }
 ]
 
 
