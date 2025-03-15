@@ -4,7 +4,7 @@ main = "index.js"
 compatibility_date = "2025-03-15"
 
 kv_namespaces = [
-    { binding = "KV_BINDING", id = "${KV_NAMESPACE_ID}7" }
+    { binding = "KV_BINDING", id = "${KV_NAMESPACE_ID}" }
 ]
 
 
