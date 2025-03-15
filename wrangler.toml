@@ -1,11 +1,12 @@
+# wrangler.toml
 name = "serverless-qrcode-hub"
 main = "index.js"
+
+
 kv_namespaces = [
-    { binding = "KV_BINDING", id = "91e94fe4c85d4e21a7f9898d97587e0e" },
+    { binding = "KV_BINDING", id = "${KV_NAMESPACE_ID}" }
 ]
 
-[vars]
-PASSWORD = "123456"
 
 [assets]
 directory = "./dist"
