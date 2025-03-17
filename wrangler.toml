@@ -4,7 +4,7 @@ compatibility_date = "2025-03-15"
 
 kv_namespaces = [
     # 注意：将下面的 id 替换为你自己拷贝的 KV 命名空间 id 才能正常使用！
-    { binding = "KV_BINDING", id = "1861b1f17ac346e9aca647e7d4a4c143" },
+    { binding = "serverless-qrcode-hub", id = "62efd5fe129b4d899e0773124e51f4de" },
 ]
 
 [env.dev]
