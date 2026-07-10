@@ -4,9 +4,9 @@ compatibility_date = "2025-03-10"
 
 [[d1_databases]]
 binding = "DB"
-database_name = "qrcode_hub"
+database_name = "fanghua"
 # 注意：将下面的 id 替换为你自己拷贝的 D1 存储的 id 才能正常使用！
-database_id = "3eacb2ca-7081-46e6-952a-9f0f1178c676"
+database_id = "5c05b958-163f-4eb9-9515-5d93ac594004"
 
 [triggers]
 crons = ["0 2 */1 * *"]
